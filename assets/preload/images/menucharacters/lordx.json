@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "X-laugh",
+	"idle_anim": "X-idle",
+	"position": [
+		414,
+		386
+	],
+	"scale": 0.4,
+	"image": "lordx"
+}

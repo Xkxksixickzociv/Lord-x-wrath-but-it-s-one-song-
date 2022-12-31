@@ -1,11 +1,10 @@
 {
-	
-	"image": "Menu_BF",
+	"confirm_anim": "UP-bf",
+	"idle_anim": "IDLE-bf",
 	"position": [
-		15,
-		-40
+		-164,
+		-63
 	],
-	"scale": 1,
-	"idle_anim": "M BF Idle",
-	"confirm_anim": "M bf HEY"
+	"scale": 0.7,
+	"image": "bf"
 }
