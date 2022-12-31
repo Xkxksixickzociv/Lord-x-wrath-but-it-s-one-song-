@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="conscience.png">
+<SubTexture name="conscience idle0000" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0001" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0002" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0003" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0004" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0005" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0006" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience idle0007" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0000" x="224" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0001" x="0" y="224" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0002" x="224" y="224" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0003" x="448" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0004" x="448" y="224" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0005" x="0" y="448" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0006" x="224" y="448" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0007" x="448" y="448" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="conscience jump0008" x="672" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+</TextureAtlas>
