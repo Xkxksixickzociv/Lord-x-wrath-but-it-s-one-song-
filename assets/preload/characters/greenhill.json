@@ -1,25 +1,25 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": true,
+			"fps": 10,
 			"anim": "idle",
-			"fps": 30,
-			"name": "staticFLASH",
-			"indices": []
+			"indices": [],
+			"name": "greenhill"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/greenhill",
 	"position": [
-		-530,
-		-310
+		-390,
+		0
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		22,
 		223,
@@ -27,8 +27,8 @@
 	],
 	"camera_position": [
 		1770,
-		-790
+		-840
 	],
 	"sing_duration": 4,
-	"scale": 9
+	"scale": 5
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "X_Idle instance 1"
+		},
+		{
+			"offsets": [
+				-1,
+				-132
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Piracy-X_Down instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Piracy-X_Left instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Piracy-X_Up instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Piracy_X_Right instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AntiPiracyX",
+	"position": [
+		-530,
+		-310
+	],
+	"healthicon": "piracyx",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		0,
+		110
+	],
+	"camera_position": [
+		-150,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

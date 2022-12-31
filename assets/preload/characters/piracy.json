@@ -7,19 +7,19 @@
 				0
 			],
 			"anim": "idle",
-			"fps": 30,
+			"fps": 6,
 			"name": "staticFLASH",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/piracy",
 	"position": [
-		-530,
-		-310
+		-420,
+		-80
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "gf",
+	"flip_x": false,
 	"healthbar_colors": [
 		22,
 		223,
@@ -30,5 +30,5 @@
 		-790
 	],
 	"sing_duration": 4,
-	"scale": 9
+	"scale": 4.6
 }
