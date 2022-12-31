@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greenhill.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="greenhill0000" x="3171" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0001" x="2818" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0002" x="2441" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0003" x="2118" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0004" x="1743" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0005" x="1380" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0006" x="1026" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0007" x="648" y="0" width="379" height="250"/>
+	<SubTexture name="greenhill0008" x="1945" y="0" width="379" height="250"/>
+</TextureAtlas>
